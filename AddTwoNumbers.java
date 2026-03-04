@@ -7,6 +7,6 @@ public class AddTwoNumbers {
         sum = num1 + num2; // Adding the two numbers using the '+' operator
 
         // Printing the result to the console
-        System.out.println("Sum of " + num1 + " and " + num2 + " is: " + sum);
+        System.out.println("Sum of two numbers iss" + num1 + " and " + num2 + " is: " + sum);
     }
 }
